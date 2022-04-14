@@ -1,7 +1,7 @@
-#M. Galih Fikransyah
-#Muhamad Zaim Zamzami 
-#Fatimatuzzahro
-#Nirvanna Indiranjani 
+#M. Galih Fikransyah - 19090074
+#Muhamad Zaim Zamzami - 19090036
+#Fatimatuzzahro - 19090039
+#Nirvanna Indiranjani - 19090046
 import os
 import random
 import string
